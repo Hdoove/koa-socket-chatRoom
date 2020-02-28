@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const socket = require('socket.io-client')('http://127.0.0.1:4000');
+const socket = require('socket.io-client')('http://127.0.0.1:4002');
 
 function App() {
 

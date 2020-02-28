@@ -13,7 +13,7 @@ app.use(static(
     path.join(__dirname, './public')
 ));
 
-server.listen(4000, () => {
+server.listen(4002, () => {
     console.log('连接成功');
 });
 
