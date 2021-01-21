@@ -11,7 +11,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "scripts": {
     "start": "PORT=4001 react-scripts start",
